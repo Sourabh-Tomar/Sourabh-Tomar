@@ -12,7 +12,7 @@ I’m a web developer. I spend my whole day, practically every day, experimentin
 <hr>
 <h2><strong> Find me arround the web 🌏:</strong></h2><br>
 <ul>
-<li> Social Media: <a href="https://www.instagram.com/sourabh_tomar26/">Instagram</a> or <a href="https://twitter.com/Sourabh55037608">Twitter</a><br></li>
+<li> Social Media: <a href="https://www.instagram.com/sourabh_tomar26/">Instagram</a> and <a href="https://twitter.com/Sourabh55037608">Twitter</a><br></li>
 <li> Sharing updates on: <a href="https://www.linkedin.com/in/sourabh-tomar-91b3491b9/">LinkedIn</a></li>
 </ul>
 <br>
