@@ -10,7 +10,7 @@ I’m a web developer. I spend my whole day, practically every day, experimentin
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: What your last meal on Earth would be
 <hr>
-## Find me arround the web:
+<h2><strong> Find me arround the web:</strong></h2><br>
 - Social Media: <a href="https://www.instagram.com/sourabh_tomar26/">Instagram</a> or <a href="https://twitter.com/Sourabh55037608">Twitter</a><br>
 - Sharing updates on: <a href="https://www.linkedin.com/in/sourabh-tomar-91b3491b9/">LinkedIn</a>
 
