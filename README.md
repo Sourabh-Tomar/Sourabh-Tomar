@@ -1,8 +1,7 @@
 # Hey! I am Sourabh Tomar 👋
 
-I’m a web developer. I spend my whole day, practically every day, experimenting with HTML, CSS, and JavaScript; This time i am learning Python and Django;
+I’m a web developer. I spend my whole day, practically every day, experimenting with HTML, CSS, and JavaScript and this time i am focusing to learn Python with Django;
 <hr>
-
 - 🔭 I’m a student of computer science engineering
 - 🌱 I’m currently learning Python, Django
 - 💬 Ask me about HTML, CSS, DJANGO & tech realted stuff
