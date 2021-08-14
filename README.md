@@ -8,7 +8,8 @@ I’m a web developer. I spend my whole day, practically every day, experimentin
 - 💬 Ask me about HTML, CSS, DJANGO & tech realted stuff
 - 📫 How to reach me: Twitter, Instagram, LinkedIn
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: What your last meal on Earth would be<hr>
+- ⚡ Fun fact: What your last meal on Earth would be
+<hr>
 <h2><strong> Find me arround the web 🌏:</strong></h2><br>
 <ul>
 <li> Social Media: <a href="https://www.instagram.com/sourabh_tomar26/">Instagram</a> or <a href="https://twitter.com/Sourabh55037608">Twitter</a><br></li>
