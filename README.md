@@ -5,7 +5,7 @@ I’m a web developer. I spend my whole day, practically every day, experimentin
 
 - 🔭 I’m a student of computer science engineering
 - 🌱 I’m currently learning Python, Django
-- 💬 Ask me about HTML, CSS, DJANGO & tech realted stuff
+- 💬 Ask me about HTML, CSS, DJANGO, Angular, React & tech realted stuff
 - 📫 How to reach me: Twitter, Instagram, LinkedIn
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: What your last meal on Earth would be
